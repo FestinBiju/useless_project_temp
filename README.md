@@ -1,46 +1,39 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-
+# THE RARITY APP
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: NULL & VOID
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Festin Biju - TIST Kochi
+- Member 2: Delbin Mathew - TIST Kochi
+- Member 3: Fiza Fathima Puliyappilly Sudheer - TIST Kochi
 
 ### Project Description
-[2-3 lines about what your project does]
+Our app removes the hectic job of finding something rare and reports it. It's a fun and ultimately useless app designed to make the mundane slightly more entertaining by giving random items a "rarity score" and celebrating it with confetti.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Finding out how rare everyday items are is typically not a concern for most people, but we decided to tackle this "problem" by assigning a rarity score to whatever users input, whether common or legendary.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+We developed an app that takes any item name as input, determines its rarity based on predefined criteria, and celebrates rare items with a fun confetti animation. No practical benefits, but plenty of fun!
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages used: Dart
+- Frameworks used: Flutter
+- Libraries used: Confetti, Google ML Kit (in future plans)
+- Tools used: Android Studio, Visual Studio Code
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+`git clone https://github.com/festinbiju/rarity-app.git`
+`flutter pub get`
 # Run
-[commands]
+`flutter run`
 
 ### Project Documentation
 For Software:
@@ -55,41 +48,10 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Festin Biju: Project lead, app architecture, Dart/Flutter development
+- Delbin Mathew: UI design, testing, documentation
+- Fiza Fathima Puliyappilly Sudheer: Feature implementation, confetti animation logic, testing
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
