@@ -40,7 +40,8 @@ For Software:
 ### Project Documentation
 For Software:
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]
+![alt text](https://github.com/FestinBiju/useless_project_temp/blob/main/images/img%201.jpg?raw=true)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
