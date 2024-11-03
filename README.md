@@ -42,13 +42,15 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1]
 ![alt text](https://github.com/FestinBiju/useless_project_temp/blob/main/images/img%201.jpg?raw=true)
-*Add caption explaining what this shows*
+*default main page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+![alt text](https://github.com/FestinBiju/useless_project_temp/blob/main/images/img%202.jpg?raw=true)
+*Adding a rare item shows confetti animation*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]
+![alt text](https://github.com/FestinBiju/useless_project_temp/blob/main/images/img%203.jpg?raw=true)
+*common item shows a message but no confetti*
 
 ## Team Contributions
 - Festin Biju: Project lead, app architecture, Dart/Flutter development
